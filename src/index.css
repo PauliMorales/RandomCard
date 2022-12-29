@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap');
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Montserrat, sans-serif;
+}
+
+body {
+    height: 100vh;
+}
+
+#root {
+    height: 100%;
+}
+
+.color-0 {
+    color: #FDB137;
+    fill: #FDB137;
+}
+
+.color-1 {
+    color: #785964;
+    fill: #785964;
+}
+
+.color-2 {
+    color: #6D6875;
+    fill: #6D6875;
+}
+
+.color-3 {
+    color: #B5838D;
+    fill: #B5838D;
+}
+
+.color-4 {
+    color: #E5989B;
+    fill: #E5989B;
+}
+
+.color-5 {
+    color: #7E9680;
+    fill: #7E9680;
+}
+
+.color-6 {
+    color: #C73866;
+    fill: #C73866;
+}
+
+.color-7 {
+    color: #FFB4A2;
+    fill: #FFB4A2;
+}
+
+.color-8 {
+    color: #79616F;
+    fill: #79616F;
+}
+
+.color-9 {
+    color: #EAB595;
+    fill: #EAB595;
+}
+
+.bg-color-0 {
+    background-color: #FDB137;
+}
+
+.bg-color-1 {
+    background-color: #785964;
+}
+
+.bg-color-2 {
+    background-color: #6D6875;
+}
+
+.bg-color-3 {
+    background-color: #B5838D;
+}
+
+.bg-color-4 {
+    background-color: #E5989B;
+}
+
+.bg-color-5 {
+    background-color: #7E9680;
+}
+
+.bg-color-6 {
+    background-color: #C73866;
+}
+
+.bg-color-7 {
+    background-color: #FFB4A2;
+}
+
+.bg-color-8 {
+    background-color: #79616F;
+}
+
+.bg-color-9 {
+    background-color: #EAB595;
+}

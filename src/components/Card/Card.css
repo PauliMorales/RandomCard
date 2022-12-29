@@ -1,0 +1,30 @@
+.card__container {
+    background-color: white;
+    padding: 1rem;
+    width: 40%;
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.card__container h3 {
+    text-align: center;
+}
+
+.card__container img {
+    border-radius: 50%;
+    display: flex;
+    margin: auto;
+}
+
+.card__container ul {
+    padding: 0;
+}
+
+.card__container ul li {
+    display: flex;
+    align-items: center;
+}
+
+.card__container ul li svg {
+    margin-right: 12px;
+}
